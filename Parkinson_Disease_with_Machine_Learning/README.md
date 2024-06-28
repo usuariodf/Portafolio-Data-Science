@@ -2,8 +2,7 @@
 
 ## Purpose of the Analysis
 
-This was a joint work with [Rafael Correa
-Morales](https://github.com/usuariodf) with the objective of predicting the
+This was a joint work with [Carlos Espinosa Valdéz](https://github.com/CarlosEspinosaV) with the objective of predicting the
 probability that a person will develop Parkinson's disease (PD).
 
 The main objective of this project is to develop a categorization system to
